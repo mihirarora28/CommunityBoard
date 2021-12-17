@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "638075787211",
+    "project_id": "boardapp-ff545",
+    "storage_bucket": "boardapp-ff545.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638075787211:android:6d2fb82566986c07f0884e",
+        "android_client_info": {
+          "package_name": "com.example.board_game"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "638075787211-ea6nir4ce3t9c0vinrqtm8hth4bjr2kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcMLG7C4um2NarCHzt9e4lAs-0bf0X_j4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "638075787211-ea6nir4ce3t9c0vinrqtm8hth4bjr2kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
